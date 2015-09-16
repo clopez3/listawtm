@@ -1,0 +1,3 @@
+Nombre: Carlos López
+Edad: 40 años
+Ocupación: Aspirante a desarrollador
